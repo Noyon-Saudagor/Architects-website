@@ -152,6 +152,7 @@ nav li a {
     justify-content: space-evenly;
     gap: 40px;
     align-items: center;
+    margin-top: 50px;
 }
     .sponsors-image-container img{
         width: 165px;
